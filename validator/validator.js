@@ -10,8 +10,8 @@
  * data:{name:'张三',age:10 }
  * validateArr:
  * [
- * 	{name:'姓名,type:validator.string,isNull:false,maxlen:20,minLen:2}
- *  {age:'年龄,type:validator.number,isNull:true}
+ * 	{name:'姓名',type:validator.string,isNull:false,maxlen:20,minLen:2}
+ *  {age:'年龄',type:validator.number,isNull:true}
  * ]
  * }
  */
