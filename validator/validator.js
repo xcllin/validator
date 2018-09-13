@@ -5,7 +5,7 @@
  * 
  * 使用方式:
  * 引入模块 validatoe
- * var result = validator.validateAll(data,validateArr);
+ * var result = validator.validateAll(data,validateArr);ps：验证不通过返回不通过问题，通过返回null
  * 参数例子
  * data:{name:'张三',age:10 }
  * validateArr:
